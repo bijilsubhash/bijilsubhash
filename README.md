@@ -1,4 +1,4 @@
-# ******Hi there! Welcome to my GitHub page!**
+# Hi there! Welcome to my GitHub page!**
 
 ### My name is Bijil Subhash!
 
